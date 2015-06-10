@@ -1,1 +1,115 @@
-# bookmarks
+helper
+    https://github.com/Remchi/sw-front
+    https://github.com/HipsterZipster/angularjs-book
+    https://github.com/angular-app/angular-app/tree/master/client
+    https://github.com/Monnoroch/ColorHighlighter
+    https://medium.com/@dickeyxxx/best-practices-for-building-angular-js-apps-266c1a4a6917
+    http://www.gitguys.com/topics/adding-and-removing-remote-branches/
+    http://ui-grid.info/
+    https://github.com/isaacs/minimatch
+    https://github.com/isaacs/node-glob
+    http://www.hexcolortool.com/#6b7e3a
+    http://stackoverflow.com/questions/16323310/how-can-i-instruct-less-to-ignore-math-for-certain-styles
+    https://angular-ui.github.io/bootstrap/
+    https://jsfiddle.net/
+    http://jsapp.us/
+    http://joshgertzen.com/object-oriented-super-class-method-calling-with-javascript/
+Grunt Plugins
+    https://github.com/klei/grunt-injector
+    https://github.com/gruntjs/grunt-contrib-concat
+    https://github.com/mzgol/grunt-ng-annotate
+    https://github.com/gruntjs/grunt-contrib-copy
+    https://github.com/karlgoldstein/grunt-html2js
+    https://github.com/karma-runner/grunt-karma
+    https://github.com/outaTiME/grunt-replace
+    https://www.npmjs.com/package/grunt-ng-annotate
+git
+    http://stackoverflow.com/questions/10605405/what-does-each-of-the-y-n-q-a-d-k-j-j-g-e-stand-for-in-context-of-git-p
+    https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
+    http://gitster.livejournal.com/30195.html
+    https://www.atlassian.com/git/tutorials/merging-vs-rebasing/the-golden-rule-of-rebasing
+    http://mettadore.com/2011/05/06/a-simple-git-rebase-workflow-explained/
+testing
+    http://stackoverflow.com/questions/27073441/angular-jasmine-test-response-interceptor
+    http://jbavari.github.io/blog/2014/06/20/testing-interceptor-headers-in-angularjs/
+    http://stackoverflow.com/questions/4144686/jasmine-how-to-write-a-test-which-expects-an-error-to-be-thrown
+    http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/
+    http://tobyho.com/2011/12/15/jasmine-spy-cheatsheet/
+    http://www.htmlgoodies.com/html5/javascript/spy-on-javascript-methods-using-the-jasmine-testing-framework.html#fbid=g66KJEH0DOs
+    http://dotnet.dzone.com/articles/learning-angular-unit-testing
+    http://stackoverflow.com/questions/19274274/how-do-you-mock-a-service-in-angularjs-when-unit-testing-with-jasmine
+    http://stackoverflow.com/questions/23705051/how-do-i-mock-a-service-that-returns-promise-in-angularjs-jasmine-unit-test
+angular
+    http://www.quora.com/Is-it-a-bad-practice-to-always-use-broadcast-on-on-the-rootScope-in-AngularJS
+    http://stackoverflow.com/questions/14876112/difference-between-the-observe-and-watch-methods
+    http://stackoverflow.com/questions/19394204/unbinding-watch-in-angularjs-after-called
+    http://stackoverflow.com/questions/16040263/how-to-always-run-some-code-when-a-promise-is-fulfilled-in-angular-js
+    http://blog.thoughtram.io/angularjs/2015/01/02/exploring-angular-1.3-bindToController.html
+    http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-6-using-controllers
+    https://www.linkedin.com/groups/Rendering-html-tags-in-angular-5010991.S.5813521924097073152
+    https://github.com/angular-ui-tree/angular-ui-tree
+Styles
+    http://glyphicons.bootstrapcheatsheets.com/
+    http://fortawesome.github.io/Font-Awesome/cheatsheet/
+    http://stackoverflow.com/questions/21842274/cross-browser-custom-styling-for-file-upload-button
+    http://www.hongkiat.com/blog/css3-checkbox-radio/
+    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    https://material.angularjs.org/#/demo/material.components.list
+    http://stackoverflow.com/questions/19684708/preserve-line-breaks-in-angularjs
+    http://www.impressivewebs.com/css-white-space/
+Tools
+    https://github.com/sergeche/emmet-sublime
+    https://developer.chrome.com/devtools/docs/shortcuts
+    http://code.tutsplus.com/tutorials/how-to-create-a-sublime-text-2-plugin--net-22685
+    http://www.johnstowers.co.nz/blog/pages/bash-cheat-sheet.html
+    http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+    http://www.sublimetext.com/docs/commands
+    http://stackoverflow.com/questions/9917061/edit-sublime-text-2s-default-snippets
+    http://www.wdtutorials.com/sublime-text/sublime-text-keyboard-shortcuts-cheat-sheet-win-os-x-and-linux#.VVMa1CvIYfU
+npm
+    https://github.com/simple-app/simple-http-proxy
+    https://www.npmjs.com/package/grunt-connect-proxy
+    http://browsenpm.org/package.json
+    https://github.com/andreas-trad/express-happiness
+node
+    https://nodejs.org/docs/v0.10.33/api/
+    https://seroter.wordpress.com/2013/07/29/where-the-heck-do-i-host-my-node-js-app/
+    http://nodeguide.com/beginner.html
+    http://nodeschool.io/#workshoppers
+    https://www.npmjs.com/package/q
+    https://docs.nodejitsu.com/articles/HTTP/servers/how-to-serve-static-files
+express
+    https://github.com/andreas-trad/express-happiness
+    http://www.phloxblog.in/single-page-applcation-angularjs-minimalweb-node-mvc-mongodb/#.VXfrj_n49hH
+es6
+    http://learnharmony.org/
+    http://es6-features.org/#ClassInheritance
+    http://www.es6fiddle.net/
+    http://babeljs.io/docs/learn-es6/
+    https://github.com/ericdouglas/ES6-Learning
+celeb
+    https://alexsexton.com/blog/2015/02/the-15-commandments-of-front-end-performance/
+news
+    http://www.echojs.com/
+    http://blog.risingstack.com/the-react-way-getting-started-tutorial/
+    http://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/
+    http://techcrunch.com/2015/05/05/announcing-the-techcrunch-2015-disrupt-battlefield-finalists/
+    https://medium.com/@preslavrachev/gulp-vs-grunt-why-one-why-the-other-f5d3b398edc4
+    https://facebook.github.io/react-native/
+    http://uptodate.frontendrescue.org/#follow-cool-people
+    http://www.phloxblog.in/single-page-applcation-angularjs-minimalweb-node-mvc-mongodb/#.VVSMkSvIYfV
+D3
+    https://github.com/mbostock/d3/wiki/Tutorials
+    http://tagtree.io/library
+    http://www.d3noob.org/2013/01/filling-area-under-graph.html
+    http://chimera.labs.oreilly.com/books/1230000000345/ch11.html#_pie_layout
+linux
+    http://www.linfo.org/cat.html
+Ai
+    https://github.com/cazala/synaptic/wiki/Neural-Networks-101
+    http://cs.stanford.edu/people/karpathy/convnetjs/
+    http://online.stanford.edu/course/machine-learning-self-paced
+    https://www.udacity.com/wiki/st101/downloads
+    https://www.udacity.com/course/machine-learning--ud262
+    https://www.coursera.org/learn/machine-learning/outline
+    http://www.generatedata.com/
