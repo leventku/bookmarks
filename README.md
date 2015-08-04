@@ -14,6 +14,8 @@ helper
     https://jsfiddle.net/
     http://jsapp.us/
     http://joshgertzen.com/object-oriented-super-class-method-calling-with-javascript/
+    http://www.replicated.com/
+    http://www.amazon.co.uk/Zero-One-Notes-Start-Future/dp/0753555204/ref=sr_1_4?s=books&ie=UTF8&qid=1437653956&sr=1-4&keywords=crossing+the+chasm
 Grunt Plugins
     https://github.com/klei/grunt-injector
     https://github.com/gruntjs/grunt-contrib-concat
@@ -29,6 +31,7 @@ git
     http://gitster.livejournal.com/30195.html
     https://www.atlassian.com/git/tutorials/merging-vs-rebasing/the-golden-rule-of-rebasing
     http://mettadore.com/2011/05/06/a-simple-git-rebase-workflow-explained/
+    http://stackoverflow.com/questions/2765421/push-a-new-local-branch-to-a-remote-git-repo-and-track-it-too
 testing
     http://stackoverflow.com/questions/27073441/angular-jasmine-test-response-interceptor
     http://jbavari.github.io/blog/2014/06/20/testing-interceptor-headers-in-angularjs/
@@ -39,6 +42,9 @@ testing
     http://dotnet.dzone.com/articles/learning-angular-unit-testing
     http://stackoverflow.com/questions/19274274/how-do-you-mock-a-service-in-angularjs-when-unit-testing-with-jasmine
     http://stackoverflow.com/questions/23705051/how-do-i-mock-a-service-that-returns-promise-in-angularjs-jasmine-unit-test
+    http://plnkr.co/edit/4SSXcRLdPqgb0R3jMB7Z?p=preview
+    https://github.com/sydcanem/angularjs-testing-cheat-sheet
+    http://www.sitepoint.com/angularjs-testing-tips-bootstrap-blocks-routes-events-animations/
 angular
     http://www.quora.com/Is-it-a-bad-practice-to-always-use-broadcast-on-on-the-rootScope-in-AngularJS
     http://stackoverflow.com/questions/14876112/difference-between-the-observe-and-watch-methods
@@ -48,6 +54,11 @@ angular
     http://weblogs.asp.net/dwahlin/creating-custom-angularjs-directives-part-6-using-controllers
     https://www.linkedin.com/groups/Rendering-html-tags-in-angular-5010991.S.5813521924097073152
     https://github.com/angular-ui-tree/angular-ui-tree
+    https://www.airpair.com/angularjs/posts/top-10-mistakes-angularjs-developers-make
+    https://scotch.io/tutorials/making-skinny-angularjs-controllers
+    https://github.com/mgechev/angularjs-style-guide#templates
+    https://github.com/mgechev/angularjs-style-guide#controllers
+    http://code.ciphertrick.com/2014/12/14/check-condition-before-loading-route-in-angular-js/
 Styles
     http://glyphicons.bootstrapcheatsheets.com/
     http://fortawesome.github.io/Font-Awesome/cheatsheet/
@@ -57,6 +68,8 @@ Styles
     https://material.angularjs.org/#/demo/material.components.list
     http://stackoverflow.com/questions/19684708/preserve-line-breaks-in-angularjs
     http://www.impressivewebs.com/css-white-space/
+    http://semantic-ui.com/
+    https://philipwalton.github.io/solved-by-flexbox/
 Tools
     https://github.com/sergeche/emmet-sublime
     https://developer.chrome.com/devtools/docs/shortcuts
@@ -71,6 +84,7 @@ npm
     https://www.npmjs.com/package/grunt-connect-proxy
     http://browsenpm.org/package.json
     https://github.com/andreas-trad/express-happiness
+    http://seanglover.com/blog/2014/06/record-mock-and-proxy-http-requests-with-grunt-connect-prism/
 node
     https://nodejs.org/docs/v0.10.33/api/
     https://seroter.wordpress.com/2013/07/29/where-the-heck-do-i-host-my-node-js-app/
@@ -78,8 +92,14 @@ node
     http://nodeschool.io/#workshoppers
     https://www.npmjs.com/package/q
     https://docs.nodejitsu.com/articles/HTTP/servers/how-to-serve-static-files
+    http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/
+    http://eloquentjavascript.net/20_node.html
+    http://www.raywenderlich.com/61078/write-simple-node-jsmongodb-web-service-ios-app
+    http://blog.modulus.io/mongodb-tutorial
+    http://leveldb.org/
 express
     https://github.com/andreas-trad/express-happiness
+    http://www.phloxblog.in/single-page-applcation-angularjs-minimalweb-node-mvc-mongodb/#.VXfrj_n49hH
     http://www.phloxblog.in/single-page-applcation-angularjs-minimalweb-node-mvc-mongodb/#.VXfrj_n49hH
 es6
     http://learnharmony.org/
@@ -98,11 +118,19 @@ news
     https://facebook.github.io/react-native/
     http://uptodate.frontendrescue.org/#follow-cool-people
     http://www.phloxblog.in/single-page-applcation-angularjs-minimalweb-node-mvc-mongodb/#.VVSMkSvIYfV
+    https://startpage.com/
+    https://duckduckgo.com/?q=angularjs&ia=about
+    http://www.learnxinyminutes.com/
+    http://www.hscott.net/how-to-build-a-pair-of-15000-sensor-gloves-for-40/
 D3
     https://github.com/mbostock/d3/wiki/Tutorials
     http://tagtree.io/library
     http://www.d3noob.org/2013/01/filling-area-under-graph.html
     http://chimera.labs.oreilly.com/books/1230000000345/ch11.html#_pie_layout
+    http://www.d3noob.org/2014/01/tree-diagrams-in-d3js_11.html
+    http://jaketrent.com/post/use-d3-rangebands/
+    http://bl.ocks.org/d3noob/8326869
+    http://nvd3.org/examples/indentedtree.html
 linux
     http://www.linfo.org/cat.html
 Ai
@@ -112,4 +140,14 @@ Ai
     https://www.udacity.com/wiki/st101/downloads
     https://www.udacity.com/course/machine-learning--ud262
     https://www.coursera.org/learn/machine-learning/outline
+    http://yann.lecun.com/exdb/mnist/
+    http://groups.inf.ed.ac.uk/calvin/proj-imagenet/page/
+    http://www.kurzweilai.net/
+    http://www.computervisiontalks.com/tag/machine-learning-class-10-701/
+    http://alex.smola.org/teaching/cmu2013-10-701/
+mobile
+    http://ionicframework.com/present-ionic/slides/#/7
     http://www.generatedata.com/
+React
+    https://scotch.io/tutorials/learning-react-getting-started-and-concepts
+    https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
