@@ -1,0 +1,24 @@
+GIT
+===
+git log --author="kucukgor" --oneline
+git log --grep=frotz --author=Linus
+
++ Push local branch to remote
+$ git checkout -b feature_branch_name
+... edit files, add and commit ...
+$ git push -u origin feature_branch_name
+
++ Pull latest master to the branch:
+from branch: git rebase master
+
++show all local and remote branches
+git branch -a
++show all remote branches
+git branch -r
+
++push a local Git branch to master branch in the remote
+git push <remote> <local branch name>:<remote branch to push into>
+
++rename the current branch, you can simply do:
+git branch -m <newname>
+
