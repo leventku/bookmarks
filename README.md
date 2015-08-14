@@ -45,6 +45,7 @@ testing
     http://plnkr.co/edit/4SSXcRLdPqgb0R3jMB7Z?p=preview
     https://github.com/sydcanem/angularjs-testing-cheat-sheet
     http://www.sitepoint.com/angularjs-testing-tips-bootstrap-blocks-routes-events-animations/
+    https://www.snip2code.com/Snippet/323153/Mock-underscore-or-lodash-debounce-funci
 angular
     http://www.quora.com/Is-it-a-bad-practice-to-always-use-broadcast-on-on-the-rootScope-in-AngularJS
     http://stackoverflow.com/questions/14876112/difference-between-the-observe-and-watch-methods
@@ -59,6 +60,7 @@ angular
     https://github.com/mgechev/angularjs-style-guide#templates
     https://github.com/mgechev/angularjs-style-guide#controllers
     http://code.ciphertrick.com/2014/12/14/check-condition-before-loading-route-in-angular-js/
+    https://github.com/shahata/angular-debounce/blob/master/angular-debounce.js
 Styles
     http://glyphicons.bootstrapcheatsheets.com/
     http://fortawesome.github.io/Font-Awesome/cheatsheet/
@@ -122,6 +124,8 @@ news
     https://duckduckgo.com/?q=angularjs&ia=about
     http://www.learnxinyminutes.com/
     http://www.hscott.net/how-to-build-a-pair-of-15000-sensor-gloves-for-40/
+    http://thenextweb.com/dd/2015/08/10/websites-are-looking-weird-because-web-font-service-typekit-is-down/
+    http://thenextweb.com/offers/2015/08/04/get-92-off-the-photoshop-web-design-profitable-freelancing-course/
 D3
     https://github.com/mbostock/d3/wiki/Tutorials
     http://tagtree.io/library
@@ -147,7 +151,7 @@ Ai
     http://alex.smola.org/teaching/cmu2013-10-701/
 mobile
     http://ionicframework.com/present-ionic/slides/#/7
-    http://www.generatedata.com/
 React
     https://scotch.io/tutorials/learning-react-getting-started-and-concepts
     https://www.codementor.io/reactjs/tutorial/react-js-flux-architecture-tutorial
+http://www.generatedata.com/
